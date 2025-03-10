@@ -4,7 +4,7 @@
 2. Get the current date datetime.today()
 3. Calculate the age
 4. Display the result
-5. 
+ 
 # Challenge 2 - Magic Number Guessing game
 1. The program picks a random number between 1 and 10
 2. You have to guess it correctly
