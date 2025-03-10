@@ -22,3 +22,13 @@
 3. The loop multiplies the user-entered number by the current value of i (loop variable).
 4. The results are printed in a structured format using an f-string (f"{num} * {i} = {num * i}").
 5. The program starts by printing a title (Multiplication table of {num}:) for better readability.
+
+
+# Challenge 4 - Emoji Mood checker
+
+# Steps done
+1. Asks how they’re feeling and converts it to lowercase.
+2. Maps feelings to emoji responses.
+3. Finds a response using .get().
+4. Gives a generic reply if the feeling isn’t listed.
+5. Displays an emoji-based message.
