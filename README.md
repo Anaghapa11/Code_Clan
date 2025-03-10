@@ -41,3 +41,14 @@
 2. Takes user input for operation – The user selects an operation by entering a number (1–4).
 3. Takes two numbers in one line – map(float, input().split()) allows the user to input two numbers separated by a space.
 4. Performs calculations – Uses if-elif conditions to perform the chosen operation.
+
+
+# Challenge 6 - Temperature Converter
+
+# Steps done
+1. Asks for temperature and unit (C or F).
+2. Converts input case – Uses .upper() to handle lowercase input.
+3. Performs conversion using formulas:
+   Celsius to Fahrenheit: (temp * 9/5) + 32
+   Fahrenheit to Celsius: (temp - 32) * 5/9
+4. Display the converted temperature.
