@@ -32,3 +32,12 @@
 3. Finds a response using .get().
 4. Gives a generic reply if the feeling isn’t listed.
 5. Displays an emoji-based message.
+
+
+# Challenge 5 - The Simple Calculator
+
+# Steps done
+1. The program prints options for addition, subtraction, multiplication, and division.
+2. Takes user input for operation – The user selects an operation by entering a number (1–4).
+3. Takes two numbers in one line – map(float, input().split()) allows the user to input two numbers separated by a space.
+4. Performs calculations – Uses if-elif conditions to perform the chosen operation.
