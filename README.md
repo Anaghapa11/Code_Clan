@@ -52,3 +52,13 @@
    Celsius to Fahrenheit: (temp * 9/5) + 32
    Fahrenheit to Celsius: (temp - 32) * 5/9
 4. Display the converted temperature.
+
+
+# Challenge 7 - The Bank Account challenge
+
+# Steps done
+1. Creates a bank account.
+2. Initializes account holder's name and balance.
+3. Adds money if the amount is positive.
+4. Deducts money if the amount is valid and sufficient.
+5. Displays account holder's name and balance.
