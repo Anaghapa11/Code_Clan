@@ -62,3 +62,11 @@
 3. Adds money if the amount is positive.
 4. Deducts money if the amount is valid and sufficient.
 5. Displays account holder's name and balance.
+
+
+# Challenge 8 - Palindrome Checker
+
+# Steps done
+1. Keeps only letters and numbers, removes spaces & punctuation.
+2. Converts everything to lowercase for case insensitivity.
+3. Compares it with its reversed version to check if it's a palindrome.
