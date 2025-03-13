@@ -70,3 +70,21 @@
 1. Keeps only letters and numbers, removes spaces & punctuation.
 2. Converts everything to lowercase for case insensitivity.
 3. Compares it with its reversed version to check if it's a palindrome.
+
+
+
+# Challenge 9 - Rock-Paper-Scissors Game
+
+# Steps done
+1. Import random for computer choice.
+2. Define choices "rock, paper, scissors".
+3. Initialize scores: player score = 0, computer score = 0.
+4. Start a while True for multiple rounds.
+5. Take and validate player input.
+6. Generate a random computer choice.
+7. Compare choices to determine the winner.
+8. Update and display the score.
+9. Ask if the player wants to continue.
+10. If "no", print the final score and exit.
+
+   
