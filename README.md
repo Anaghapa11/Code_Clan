@@ -88,3 +88,18 @@
 10. If "no", print the final score and exit.
 
    
+
+# Challenge 10 - student Record Management
+
+# Steps done
+1. Check & Create File:If the file doesn’t exist, create a new one.
+2. Add Student Details:Always add new student records to the file.
+3. Read File: Display contents if the user wants.
+4. Create Backup: Copy the file if the user chooses.
+5. Delete Original : Delete only if a backup exists. 
+
+
+
+
+
+
