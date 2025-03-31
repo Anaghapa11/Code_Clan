@@ -100,6 +100,25 @@
 
 
 
+# Challenge 11 - Longest Consecutive Sequence.
+
+# Steps done
+1. Store numbers in a Hash Set for O(1) lookup time.
+2. Check each number to see if it’s the start of a sequence (num - 1 is missing).
+3. Expand the sequence by checking if num + 1 exists, increasing current_streak.
+4. Track the longest streak by updating longest_streak.
+5.  Return the max streak after checking all numbers.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
